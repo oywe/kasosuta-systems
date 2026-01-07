@@ -1,0 +1,14 @@
+{
+  "name": "subdomain-server",
+  "version": "1.0.0",
+  "description": "サブドメインを取得して表示する Express サーバー",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "あなたの名前",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
